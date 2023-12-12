@@ -23,7 +23,7 @@ The accurate identification of transitions between indoor and outdoor environmen
 
 The code and resources provided here implement the methodologies and techniques proposed in the paper. Follow the instructions in each directory to reproduce experiments and results.
 
-Download the datasets from here: https://drive.google.com/drive/folders/1bVoTa0JYDVYIkGKHgTxG5WcBy3vw_eoe
+Download the datasets from [here](https://drive.google.com/drive/folders/1bVoTa0JYDVYIkGKHgTxG5WcBy3vw_eoe)
 
 ## Citation
 
